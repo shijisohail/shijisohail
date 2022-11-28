@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Projects like CRM's and FMS
 - 📫 How to reach me ...
   Email me @ : shijisohail786@gmail.com
-  Linkedin : https://www.linkedin.com/in/shijisohail/
+- Linkedin : https://www.linkedin.com/in/shijisohail/
