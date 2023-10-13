@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sharjeel Sohail @shijisohail
 - 👀 I’m interested in CyberSecurity and Python/Django related Projects
-- 🌱 I’m currently learning Python/Django , Micro-Services 
+- 🌱 I’m currently working on Python/Django , Micro-Services 
 - 💞️ I’m looking to collaborate on Projects like CRM's and FMS
 - 📫 How to reach me ...
   Email me @ : shijisohail786@gmail.com
