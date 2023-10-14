@@ -27,7 +27,7 @@ Here are a couple of noteworthy projects I've been a part of:
 
 **Short Summary**: Utilized report and analytics services to generate real-time graphs and data cards. The project focused on displaying data such as Air Quality Index, temperature, and humidity statistics, categorized by cities and areas.
 
-### Vodafone Lego
+### Enterprise Plan Builder
 
 **Short Summary**: Built a subscription service for Vodafone customers, allowing them to select plans for services like international minutes, roaming, and more. 
 
