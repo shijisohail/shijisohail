@@ -3,7 +3,7 @@
 Hello, I'm **Sharjeel Sohail** 👋  
 
 ## Introduction  
-I am a **Backend Developer** with **3.5+ years of professional experience** in **Python**, **Django**, and **microservices architecture**. I have a proven track record of building **scalable, production-grade systems** in domains like **logistics, IoT, and cybersecurity**. My expertise spans **RESTful API development**, **asynchronous task processing**, and **cloud-native deployments** using **Docker, Kubernetes, and AWS**.  
+I am a **Backend Developer** with professional experience in **Python**, **Django**, and **microservices architecture**. I have a proven track record of building **scalable, production-grade systems** in domains like **logistics, IoT, and cybersecurity**. My expertise spans **RESTful API development**, **asynchronous task processing**, and **cloud-native deployments** using **Docker, Kubernetes, and AWS**.  
 
 ## Expertise  
 - **Backend Development**: Django, Django REST Framework, Microservices, Async Processing (Celery, Redis, Kafka)  
