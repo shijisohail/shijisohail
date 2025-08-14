@@ -1,42 +1,43 @@
-# About Me
+# About Me  
 
-Hello, I'm Sharjeel Sohail!
+Hello, I'm **Sharjeel Sohail** 👋  
 
-## Introduction
+## Introduction  
+I am a **Backend Developer** with **3.5+ years of professional experience** in **Python**, **Django**, and **microservices architecture**. I have a proven track record of building **scalable, production-grade systems** in domains like **logistics, IoT, and cybersecurity**. My expertise spans **RESTful API development**, **asynchronous task processing**, and **cloud-native deployments** using **Docker, Kubernetes, and AWS**.  
 
-I am a passionate Django developer with 2 years of experience. During this time, I've had the opportunity to work on exciting projects and gain expertise in various aspects of web development.
+## Expertise  
+- **Backend Development**: Django, Django REST Framework, Microservices, Async Processing (Celery, Redis, Kafka)  
+- **Cloud & Deployment**: Docker, Kubernetes, AWS (EC2, S3), CI/CD  
+- **Databases**: PostgreSQL, MySQL, MongoDB, NoSQL  
+- **AI & Automation**: Whisper Speech-to-Text, GPT Model Integration, NLP  
+- **Security & Performance**: JWT Authentication, Network Optimization, Scalable Architectures  
 
-## Expertise
+## Key Achievements  
+- **Reduced API Latency by 25%** in a logistics tracking platform by optimizing network schema.  
+- **Increased revenue by 30%** by delivering high-impact projects for 5+ major clients including AT&T, Vodafone, and MTN Nigeria.  
+- **Reduced server load by 40%** via microservice optimization and Kafka-based event communication.  
+- **Mentored interns**, improving their efficiency and onboarding speed by 50%.  
 
-- **Django Development**: I specialize in creating web applications using the Django framework, known for its robustness and flexibility.
+## Notable Projects  
 
-- **Microservices Architecture**: I have hands-on experience in building and maintaining applications within a microservices architecture, enabling efficient and scalable solutions.
+### 🚢 **Dunavant & AT&T Shipment Tracking System**  
+- Built APIs & crawlers to fetch real-time logistics data from ports and carriers.  
+- Enhanced synchronization for accurate shipment visibility across multiple logistics stages.  
+- Deployed on AWS using Docker & Kubernetes for high availability and scalability.  
 
-- **Kubernetes and Docker for Deployment**: I am well-versed in containerization and orchestration technologies, such as Docker and Kubernetes, to ensure smooth and efficient deployment of applications.
+### 🏢 **Smart Building & Smart Surveillance**  
+- IoT-based building management system with real-time alerts for water leakage, fire, humidity, and temperature.  
+- Designed multiple microservices with Kafka event streaming.  
 
-## Notable Projects
+### 🌍 **Smart Environment**  
+- Real-time analytics dashboard for Air Quality Index, temperature, and humidity.  
+- Aggregated and visualized data by city and area for environmental monitoring.  
 
-Here are a couple of noteworthy projects I've been a part of:
+### 🤖 **AI-Powered Call Analysis System**  
+- Automated call transcription & analysis using **Whisper** and **GPT-4o**.  
+- Generated real-time performance feedback for clients through a Streamlit-based dashboard.  
 
-### Smart Building and Smart Surveillance
-
-**Short Summary**: Developed an IoT-based web and mobile application for managing buildings. Implemented sensors for monitoring water leakage, fire alarms, humidity, temperature, and more. Users can create buildings, floors, and spaces, install IoT devices, and configure alerts. Real-time notifications are delivered through the installed sensors. Additionally, created a Microservice for reporting and analytics from scratch.
-
-### Smart Environment
-
-
-**Short Summary**: Utilized report and analytics services to generate real-time graphs and data cards. The project focused on displaying data such as Air Quality Index, temperature, and humidity statistics, categorized by cities and areas.
-
-### Enterprise Plan Builder
-
-**Short Summary**: Built a subscription service for Vodafone customers, allowing them to select plans for services like international minutes, roaming, and more. 
-
-## Contact
-
-Feel free to reach out to me if you'd like to collaborate or discuss Django related projects. 
-
-Thank you for visiting my GitHub profile!
-
-- 📫 How to reach me
-  Email me @ : shijisohail786@gmail.com
-- Linkedin : https://www.linkedin.com/in/shijisohail/
+## Contact  
+- 📧 Email: **shijisohail786@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/shijisohail](https://www.linkedin.com/in/shijisohail/)  
+- 💻 GitHub: [github.com/shijisohail](https://github.com/shijisohail)  
